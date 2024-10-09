@@ -1,0 +1,15 @@
+.info{ background-color: rgb(62, 243, 183);}
+
+h2{text-align: center; 
+    background-color: rgb(62, 248, 236);}
+
+header{background-color: #d42a2a;
+     padding-top: 10px; 
+     padding-bottom: 10px ;}
+
+.image{padding: 100px ;
+    max-width: 75%;
+    max-height: 50%;}
+.car{text-align: center; 
+    font-size: 20px;
+    padding-block: auto;}
